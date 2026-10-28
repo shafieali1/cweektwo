@@ -1,0 +1,11 @@
+D:\c# folder\second practice\second practice\bin\Debug\second practice.exe.config
+D:\c# folder\second practice\second practice\bin\Debug\second practice.exe
+D:\c# folder\second practice\second practice\bin\Debug\second practice.pdb
+D:\c# folder\second practice\second practice\obj\Debug\second practice.csproj.AssemblyReference.cache
+D:\c# folder\second practice\second practice\obj\Debug\second_practice.Form1.resources
+D:\c# folder\second practice\second practice\obj\Debug\second_practice.Properties.Resources.resources
+D:\c# folder\second practice\second practice\obj\Debug\second practice.csproj.GenerateResource.cache
+D:\c# folder\second practice\second practice\obj\Debug\second practice.csproj.CoreCompileInputs.cache
+D:\c# folder\second practice\second practice\obj\Debug\second practice.exe
+D:\c# folder\second practice\second practice\obj\Debug\second practice.pdb
+D:\c# folder\second practice\second practice\obj\Debug\second practice.exe.config

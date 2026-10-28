@@ -1,0 +1,11 @@
+D:\c# folder\my project c#\my project c#\obj\Debug\my project c#.csproj.AssemblyReference.cache
+D:\c# folder\my project c#\my project c#\obj\Debug\my_project_c_.Form1.resources
+D:\c# folder\my project c#\my project c#\obj\Debug\my_project_c_.Properties.Resources.resources
+D:\c# folder\my project c#\my project c#\obj\Debug\my project c#.csproj.GenerateResource.cache
+D:\c# folder\my project c#\my project c#\obj\Debug\my project c#.csproj.CoreCompileInputs.cache
+D:\c# folder\my project c#\my project c#\bin\Debug\my project c#.exe.config
+D:\c# folder\my project c#\my project c#\bin\Debug\my project c#.exe
+D:\c# folder\my project c#\my project c#\bin\Debug\my project c#.pdb
+D:\c# folder\my project c#\my project c#\obj\Debug\my project c#.exe
+D:\c# folder\my project c#\my project c#\obj\Debug\my project c#.pdb
+D:\c# folder\my project c#\my project c#\obj\Debug\my project c#.exe.config
